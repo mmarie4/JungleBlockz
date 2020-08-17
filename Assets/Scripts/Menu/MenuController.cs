@@ -264,12 +264,10 @@ public class MenuController : MonoBehaviour
     }
     public void LinkToStore()
     {
-        if (GameSettings.platform.Equals("android")) Application.OpenURL("market://details?id=com.TheMaskProduction.JungleBlockz");
-        if (GameSettings.platform.Equals("iphone")) Application.OpenURL("itms-apps://apps.apple.com/app/id1527852358");
 #if UNITY_ANDROID
         Application.OpenURL("market://details?id=com.TheMaskProduction.JungleBlockz");
 #elif UNITY_IPHONE
-        Application.OpenURL("itms-apps://itunes.apple.com/us/developer/xxx"); // TODO: change to apple store link
+        Application.OpenURL("itms-apps://apps.apple.com/app/id1527852358");
 #else
         // do nothing
 #endif
