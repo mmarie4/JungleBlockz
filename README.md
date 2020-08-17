@@ -1,7 +1,8 @@
 # JungleBlockz
 
-Note that this repo deliberately contains only the C# scripts.
-It is not enough to run the project as it missed the scenes, the prefabs, the images, the WWise project...
+Note that this repo contains only the C# scripts.
+
+It is not enough to run the project as it misses (on purpose) the scenes, the prefabs, the images, the WWise project...
 
 ## Links to App Stores
 
