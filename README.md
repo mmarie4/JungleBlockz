@@ -8,4 +8,4 @@ It is not enough to run the project as it misses (on purpose) the scenes, the pr
 
 Android : https://play.google.com/store/apps/details?id=com.TheMaskProduction.JungleBlockz
 
-iOS : https://apps.apple.com/us/app/id1527852358
+[Not Available anymore] iOS : https://apps.apple.com/us/app/id1527852358
